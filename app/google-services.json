@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "308118682566",
+    "project_id": "datarafi-58824",
+    "storage_bucket": "datarafi-58824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308118682566:android:64a7fc442ee213924310c7",
+        "android_client_info": {
+          "package_name": "com.rafi.datarafi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308118682566-qgjbih8fjtgt0vr7og75gjfjq97e8i27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rafi.datarafi",
+            "certificate_hash": "8559a10b5bea4c458db2a30fb7fc45bdd8e24e79"
+          }
+        },
+        {
+          "client_id": "308118682566-gedbl5ro46rbobtmvpecpj9fjurdph70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEdvW-g6oWeuUFsLzpRqEnfYYoZR7GQFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308118682566-gedbl5ro46rbobtmvpecpj9fjurdph70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
